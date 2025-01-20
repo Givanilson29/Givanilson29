@@ -1,16 +1,28 @@
 ## Hi there 👋
 
-<!--
-**Givanilson29/Givanilson29** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Eu sou, Givanilson Oliveira, sou um desenvolvedor apaixonado por tecnologia!
 
-Here are some ideas to get you started:
+Este é o espaço onde passo a maior parte do meu tempo, onde a imaginação e a criatividade se transformam em código.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+<br>
+
+###Conecte-se comigo:
+
+<p>
+<a href="https://www.linkedin.com/in/givanilson-louren%C3%A7o-de-oliveira">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn-logo"/>
+</a>
+</p>
+
+<br>
+<br>
+[![Givanilson Status](https://github-readme-stats.vercel.app/api?username=Givanilson29)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
+
+
+
+
+
