@@ -17,7 +17,15 @@ Este é o espaço onde passo a maior parte do meu tempo, onde a imaginação e a
 
 <br>
 <br>
-[![Givanilson Status](https://github-readme-stats.vercel.app/api?username=Givanilson29)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Givanilson Stats](https://github-readme-stats.vercel.app/api?username=Givanilson29)](https://github.com/anuraghazra/github-readme-stats)
+<br>
+<br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Givanilson29)](https://github.com/anuraghazra/github-readme-stats)
+<br>
+<br>
+![](https://komarev.com/ghpvc/?username=Givanilson29)
+
 
 
 
