@@ -1,6 +1,6 @@
 ## Hi there :pencil:
 
-Eu sou, Givanilson Oliveira, sou um desenvolvedor apaixonado por tecnologia!
+Eu Givanilson Oliveira, sou um estudante de TI apaixonado por tecnologia!
 
 Este é o espaço onde passo a maior parte do meu tempo, onde a imaginação e a criatividade se transformam em código.
 
